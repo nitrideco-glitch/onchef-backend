@@ -1,0 +1,2 @@
+Watching for file changes with StatReloader
+INFO 2026-05-12 23:05:38,293 autoreload 7304 21216 Watching for file changes with StatReloader
