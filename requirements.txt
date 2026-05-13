@@ -7,3 +7,4 @@ python-dotenv==1.0.0
 gunicorn==21.2.0
 setuptools==75.0.0
 wheel==0.45.0
+django-filter==23.5
